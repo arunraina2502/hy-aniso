@@ -23,8 +23,8 @@ This project further requires python 3, multiprocessing, matplotlib and numpy.
 Contributors
 ============
 
-* Dr. Nate J. C. Sime njcs4@cam.ac.uk
-* Dr. Arun Raina      arunraina@icloud.com
+* Dr. Nate J. C. Sime   njcs4@cam.ac.uk
+* Dr.-Ing Arun Raina    arunraina@icloud.com
 
 License
 =======
